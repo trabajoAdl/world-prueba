@@ -2,7 +2,7 @@
   position: fixed;
   width: 60px;
   height: 60px;
-  line-height: 63px;
+  line-height: 50px;
   bottom: 65px;
   right: 25px;
   background: #25d366;
@@ -23,7 +23,7 @@
   .btn-wsp {
     width: 63px;
     height: 63px;
-    line-height: 66px;
+    line-height: 58px;
   }
 }
 
